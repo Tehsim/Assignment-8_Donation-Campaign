@@ -1,0 +1,123 @@
+[
+    {
+      "Picture": "Clothing.png",
+      "Title": "Donation Title 1",
+      "Category": "Category 1",
+      "Color for category_bg": "#FF5733",
+      "Color for card_bg": "#FED240",
+      "Color for text and button background": "#333333",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Price": 50
+    },
+    {
+      "Picture": "Education.png",
+      "Title": "Donation Title 2",
+      "Category": "Category 2",
+      "Color for category_bg": "#E74C3C",
+      "Color for card_bg": "#FFC300",
+      "Color for text and button background": "#333333",
+      "Description": "Suspendisse potenti. Vivamus volutpat, augue eget dignissim blandit.",
+      "Price": 30
+    },
+    {
+      "Picture": "Food.png",
+      "Title": "Donation Title 3",
+      "Category": "Category 3",
+      "Color for category_bg": "#3498DB",
+      "Color for card_bg": "#2ECC71",
+      "Color for text and button background": "#333333",
+      "Description": "Nulla facilisi. Proin at velit dictum, fermentum elit eget, laoreet purus.",
+      "Price": 25
+    },
+    {
+      "Picture": "Health.png",
+      "Title": "Donation Title 4",
+      "Category": "Category 4",
+      "Color for category_bg": "#9B59B6",
+      "Color for card_bg": "#1ABC9C",
+      "Color for text and button background": "#333333",
+      "Description": "Aenean sollicitudin enim eget erat dignissim, vel gravida sapien.",
+      "Price": 40
+    },
+    {
+      "Picture": "Rectangle4284.png",
+      "Title": "Donation Title 5",
+      "Category": "Category 5",
+      "Color for category_bg": "#F39C12",
+      "Color for card_bg": "#E67E22",
+      "Color for text and button background": "#333333",
+      "Description": "Praesent malesuada sem non rhoncus. Vivamus cursus, urna et dapibus.",
+      "Price": 60
+    },
+    {
+      "Picture": "Rectangle4287.png",
+      "Title": "Donation Title 6",
+      "Category": "Category 6",
+      "Color for category_bg": "#D35400",
+      "Color for card_bg": "#16A085",
+      "Color for text and button background": "#333333",
+      "Description": "Vivamus varius in neque ac vehicula. Donec vestibulum quam.",
+      "Price": 35
+    },
+    {
+      "Picture": "Rectangle4287-1.png",
+      "Title": "Donation Title 7",
+      "Category": "Category 7",
+      "Color for category_bg": "#E74C3C",
+      "Color for card_bg": "#FFC300",
+      "Color for text and button background": "#333333",
+      "Description": "Suspendisse potenti. Vivamus volutpat, augue eget dignissim blandit.",
+      "Price": 45
+    },
+    {
+      "Picture": "Rectangle4287-2.png",
+      "Title": "Donation Title 8",
+      "Category": "Category 8",
+      "Color for category_bg": "#3498DB",
+      "Color for card_bg": "#2ECC71",
+      "Color for text and button background": "#333333",
+      "Description": "Nulla facilisi. Proin at velit dictum, fermentum elit eget, laoreet purus.",
+      "Price": 55
+    },
+    {
+      "Picture": "Rectangle4288.png",
+      "Title": "Donation Title 9",
+      "Category": "Category 9",
+      "Color for category_bg": "#9B59B6",
+      "Color for card_bg": "#1ABC9C",
+      "Color for text and button background": "#333333",
+      "Description": "Aenean sollicitudin enim eget erat dignissim, vel gravida sapien.",
+      "Price": 28
+    },
+    {
+      "Picture": "Clothing.png",
+      "Title": "Donation Title 10",
+      "Category": "Category 10",
+      "Color for category_bg": "#F39C12",
+      "Color for card_bg": "#E67E22",
+      "Color for text and button background": "#333333",
+      "Description": "Praesent malesuada sem non rhoncus. Vivamus cursus, urna et dapibus.",
+      "Price": 38
+    },
+    {
+      "Picture": "Education.png",
+      "Title": "Donation Title 11",
+      "Category": "Category 11",
+      "Color for category_bg": "#D35400",
+      "Color for card_bg": "#16A085",
+      "Color for text and button background": "#333333",
+      "Description": "Vivamus varius in neque ac vehicula. Donec vestibulum quam.",
+      "Price": 42
+    },
+    {
+      "Picture": "Food.png",
+      "Title": "Donation Title 12",
+      "Category": "Category 12",
+      "Color for category_bg": "#3498DB",
+      "Color for card_bg": "#2ECC71",
+      "Color for text and button background": "#333333",
+      "Description": "Nulla facilisi. Proin at velit dictum, fermentum elit eget, laoreet purus.",
+      "Price": 32
+    }
+  ]
+  
