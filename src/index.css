@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-bg-image {
+    background-image: url('./data/banner.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    opacity: 0.5; /* Adjust the opacity as needed */
+    z-index: -1; /* Place the pseudo-element behind the content */
+  }
+
+  .cs-active{
+    color: #FF444A;
+    border-bottom: 2px solid #FF444A;
+    padding-bottom: 5px;
+    font-weight: bold;
+  }
