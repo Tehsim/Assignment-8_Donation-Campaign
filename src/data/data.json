@@ -1,100 +1,112 @@
 [
-    {
-      "id": "1",
-      "image": "./src/data/Health.png",
-      "phone_name": "Clean water for children",
-      "brand_name": "Health",
-      "price": 799.99,
-      "rating": 4.7
-    },
-    {
-      "id": "2",
-      "image": "./src/data/Food.png",
-      "phone_name": "Good education",
-      "brand_name": "Education",
-      "price": 899.99,
-      "rating": 4.9
-    },
-    {
-      "id": "3",
-      "image": "./src/data/Education.png",
-      "phone_name": "Better Food for Everyone",
-      "brand_name": "Food",
-      "price": 999.99,
-      "rating": 3.5
-    },
-    {
-      "id": "4",
-      "image": "./src/data/Clothing.png",
-      "phone_name": "Used Clothing Drive",
-      "brand_name": "Clothing",
-      "price": 699.99,
-      "rating": 4.5
-    },
-    {
-      "id": "5",
-      "image": "./src/data/Rectangle4284.png",
-      "phone_name": "Clean water for children",
-      "brand_name": "Health",
-      "price": 899.99,
-      "rating": 2.9
-    },
-    {
-      "id": "6",
-      "image": "./src/data/Rectangle4287.png",
-      "phone_name": "Good education",
-      "brand_name": "Education",
-      "price": 1099.99,
-      "rating": 5.0
-    },
-    {
-      "id": "7",
-      "image": "./src/data/Rectangle4287-1.png",
-      "phone_name": "Better Food for Everyone",
-      "brand_name": "Food",
-      "price": 999.99,
-      "rating": 4.7
-    },
-    {
-      "id": "8",
-      "image": "./src/data/Rectangle4287-2.png",
-      "phone_name": "Used Clothing Drive",
-      "brand_name": "Clothing",
-      "price": 999.99,
-      "rating": 4.7
-    },
-    
+  {
+    "id": "1",
+    "image": "./src/data/Health.png",
+    "phone_name": "Clean water for children",
+    "brand_name": "Health",
+    "price": 799.99,
+    "rating": 4.7,
+    "category": "Donation"
+  },
+  {
+    "id": "2",
+    "image": "./src/data/Food.png",
+    "phone_name": "Good education",
+    "brand_name": "Education",
+    "price": 899.99,
+    "rating": 4.9,
+    "category": "Donation"
+  },
+  {
+    "id": "3",
+    "image": "./src/data/Education.png",
+    "phone_name": "Better Food for Everyone",
+    "brand_name": "Food",
+    "price": 999.99,
+    "rating": 3.5,
+    "category": "Donation"
+  },
+  {
+    "id": "4",
+    "image": "./src/data/Clothing.png",
+    "phone_name": "Used Clothing Drive",
+    "brand_name": "Clothing",
+    "price": 699.99,
+    "rating": 4.5,
+    "category": "Donation"
+  },
+  {
+    "id": "5",
+    "image": "./src/data/Rectangle4284.png",
+    "phone_name": "Clean water for children",
+    "brand_name": "Health",
+    "price": 899.99,
+    "rating": 2.9,
+    "category": "Donation"
+  },
+  {
+    "id": "6",
+    "image": "./src/data/Rectangle4287.png",
+    "phone_name": "Good education",
+    "brand_name": "Education",
+    "price": 1099.99,
+    "rating": 5.0,
+    "category": "Donation"
+  },
+  {
+    "id": "7",
+    "image": "./src/data/Rectangle4287-1.png",
+    "phone_name": "Better Food for Everyone",
+    "brand_name": "Food",
+    "price": 999.99,
+    "rating": 4.7,
+    "category": "Donation"
+  },
+  {
+    "id": "8",
+    "image": "./src/data/Rectangle4287-2.png",
+    "phone_name": "Used Clothing Drive",
+    "brand_name": "Clothing",
+    "price": 999.99,
+    "rating": 4.7,
+    "category": "Donation"
+  },
   
-    {
-      "id": "9",
-      "image": "./src/data/Rectangle4288.png",
-      "phone_name": "Clean water for children",
-      "brand_name": "Health",
-      "price": 1199.99,
-      "rating": 4.8
-    },
-    {
-      "id": "10",
-      "image": "./src/data/Health.png",
-      "phone_name": "Good education",
-      "brand_name": "Education",
-      "price": 1299.99,
-      "rating": 3.9
-    },
-    {
-      "id": "11",
-      "image": "./src/data/Food.png",
-      "phone_name": "Better Food for Everyone",
-      "brand_name": "Food",
-      "price": 1099.99,
-      "rating": 4.7
-    },
-    {
-      "id": "12",
-      "image":"./src/data/Clothing.png",
-      "phone_name": "Used Clothing Drive",
-      "brand_name": "Clothing",
-      "price": 1399.99,
-      "rating": 4.8
-    }
-  ]  
+
+  {
+    "id": "9",
+    "image": "./src/data/Rectangle4288.png",
+    "phone_name": "Clean water for children",
+    "brand_name": "Health",
+    "price": 1199.99,
+    "rating": 4.8,
+    "category": "Donation"
+  },
+  {
+    "id": "10",
+    "image": "./src/data/Health.png",
+    "phone_name": "Good education",
+    "brand_name": "Education",
+    "price": 1299.99,
+    "rating": 3.9,
+    "category": "Donation"
+  },
+  {
+    "id": "11",
+    "image": "./src/data/Food.png",
+    "phone_name": "Better Food for Everyone",
+    "brand_name": "Food",
+    "price": 1099.99,
+    "rating": 4.7,
+    "category": "Donation"
+  },
+  {
+    "id": "12",
+    "image":"./src/data/Clothing.png",
+    "phone_name": "Used Clothing Drive",
+    "brand_name": "Clothing",
+    "price": 1399.99,
+    "rating": 4.8,
+    "category": "Donation"
+  }
+]  
