@@ -23,7 +23,8 @@ const myCreatedRoute =  createBrowserRouter([
             },
             {
                 path : "/favorites",
-                element : <Favorites></Favorites>
+                element : <Favorites></Favorites>,
+                loader:()=>fetch('/src/data/data.json')
             },
             // {
             //     path : "/login",
